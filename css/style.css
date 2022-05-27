@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lobster', cursive;
+
+}
+tamanho-img {
+    width:300px; 
+    height:180px;
+}
+.cor-laranja{
+    color: #ff6600;
+    font-size: 50px;
+    margin-top: 200px;
+}
+
+.cor-rosa{
+    color : #dc143c;
+    
+}
